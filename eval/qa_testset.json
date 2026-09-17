@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the refund policy?",
+    "expected_source": "refund_policy.md",
+    "expected_answer_contains": "30 days"
+  },
+  {
+    "question": "How do I reset my password?",
+    "expected_source": "account_setup.md",
+    "expected_answer_contains": "reset link"
+  },
+  {
+    "question": "What are the API rate limits?",
+    "expected_source": "api_reference.md",
+    "expected_answer_contains": "requests per minute"
+  }
+]
